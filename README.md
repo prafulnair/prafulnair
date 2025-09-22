@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Praful Nair
 
-Welcome to my GitHub profile! I recently graduated with a **Master of Applied Computer Science** from **Concordia University, Montreal** (June 2024), and I'm passionate about building scalable, reliable software solutions.
+Welcome to my GitHub profile! I recently graduated with a **Master of Applied Computer Science** from **Concordia University, Montreal** (June 2024), and I'm passionate about building scalable, reliable software solutions. Most recently I interned with Valsoft as a Developer with their Financial Systems team to develop and ehance their ERP system. Also did full-stack and some data projects.
 
 ---
 
