@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Praful Nair
+<!--# 👋 Hi there! I'm Praful Nair
 
 Welcome to my GitHub profile! I recently graduated with a **Master of Applied Computer Science** from **Concordia University, Montreal** (June 2024), and I'm passionate about building scalable, reliable software solutions. Most recently I interned with Valsoft as a Developer with their Financial Systems team to develop and ehance their ERP system. Also did full-stack and some data projects.
 
@@ -69,6 +69,105 @@ Welcome to my GitHub profile! I recently graduated with a **Master of Applied Co
 
 ### 🌟 Fun Fact
 I believe in continuous learning and enjoy tackling new challenges, whether it's solving complex coding problems or contributing to impactful projects. I believe whatever we do should help human society in some capacity. I believe in being kind. I like coffee and Photography. 
+---->
+
+# 👋 Hi, I'm **Praful Nair**
+
+> Backend-leaning software developer who loves shipping clean, reliable systems. I recently completed my **M.Applied Computer Science** at **Concordia University, Montréal** (June 2024) and interned at **Valsoft** on their Financial Systems team.
+
+---
+
+## 🌟 Snapshot
+
+* 🧰 **Recent Role:** Developer Intern @ **Valsoft Corporation** (Sep–Dec 2024)
+
+  * Built and shipped full‑stack features (React + Python-Flask) and made it deployment ready with Docker, to AWS (App Runner, ECS).
+  * Designed RESTful APIs and automated intercompany workflows with Python scripts.
+  * Implemented JavaScript (NetSuite) **Map/Reduce** scripts for large bill processing and third‑party invoice sync.
+  * Authored **SEPA** payment XML templates (FreeMarker) for finance integrations.
+* 🎓 **Teaching:** Graduate TA @ Concordia (10 months)
+
+  * Mentored ~80 students in **Agile** and **Web App Development**; coached backend & frontend best practices.
+* 🎯 **Open to:** Full‑time roles in **Full-stack**, **Backend/Platform**, **Cloud**, or **Data‑heavy** applications.
+
+---
+
+## 🧠 Core Skills
+
+**Languages:** Python · Java · JavaScript/TypeScript · SQL 
+
+**Also used:**  C#/.NET · Bash
+
+**Backend:** Flask · FastAPI · Django · Node.js
+
+**Frontend:** React · HTML/CSS · Tailwind CSS · MUI
+
+**Cloud:** AWS (EC2, S3, Cognito, ECS, App Runner) · GCP (BigQuery, Cloud Functions, Cloud Storage)
+
+**Data & Tooling:** pandas · NumPy · matplotlib · SQLAlchemy · Postman
+
+** AI and ML** LLM integrations (Gemini, OpenAI) · RAG · Ollama
+
+**Environments:** Linux · Windows
+
+**Practices:** REST, CI/CD, code reviews, observability basics
+
+---
+
+## 🚀 Featured Projects
+
+### 1) AI‑Powered Task Manager
+
+A side‑project that lets users add tasks in natural language (e.g., “remind me to send the report tomorrow”).
+
+* **What it does:** Parses intent, categorizes tasks, infers due dates/priority, and summarizes progress.
+* **How it works:** Python **FastAPI** backend, React/TS frontend, PostgreSQL. Integrates **Gemini** for NLP and a local **semantic reconciliation** layer (SentenceTransformers + fuzzy match) to reduce category drift while still allowing organic categories.
+* **Why it’s interesting:** It balances AI flexibility with determinism—separating intent parsing, enrichment, and summarization into clear stages.
+* **Code:** [github.com/prafulnair/AI_ToDo_App](https://github.com/prafulnair/AI_ToDo_App)
+
+### 2) Ford–Fulkerson Network Flow Lab (Live)
+
+A research‑style playground to run and compare **max‑flow** strategies with clear residual‑graph visuals.
+
+* **What it does:** Generates graphs, runs Ford–Fulkerson with multiple augmenting‑path heuristics, and compares max flow, path counts, and path lengths with residual snapshots.
+* **What changed recently:** Refactored into a modular Python package with dataclasses for graph/residual snapshots; consolidated strategies (Shortest Augmenting Path, DFS‑like, Max Capacity, Random) into a clean algorithms module; added reproducible graph generation (seeded + CSV persistence) and **pytest** fixtures/regression tests.
+* **Why it’s useful:** Run headless experiments or explore interactively; visualize residual networks and flow evolution.
+* **Live:** 👉 [Streamlit demo](https://praful-ford-fulkerson-network-flow.streamlit.app/)
+
+### 3) GCP ETL Pipeline
+
+* End‑to‑end ingestion and transformation on **GCP** (Cloud Functions, Storage, BigQuery).
+* Emphasis on schema design, idempotency, and cost awareness.
+
+---
+
+## 🎓 Certifications
+
+* [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
+
+---
+
+## 📫 Contact
+
+* 📧 Email: **[prafulworkspace@gmail.com](mailto:prafulworkspace@gmail.com)**
+* 🔗 LinkedIn: **/in/praful-nair-3a5a87181/**
+* 🐙 GitHub: **/prafulnair**
+
+---
+
+## 🧭 What I’m Into
+
+* Designing **reliable backends** with clean interfaces and solid data models.
+* **Cloud infra** that’s simple to operate (least‑privilege, low‑cost, observable).
+* Turning fuzzy requirements into small, shippable milestones.
+* Coffee
+* Gaming. If this is someone from the DontNod studios, Montreal, I love you guys. I love Life is Strange!
+
+---
+
+### ☕ A bit more
+
+I like coffee and photography, and I care about building things that are actually useful for people. Always happy to learn, iterate, and collaborate.
 
 <!---
 prafulnair/prafulnair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
